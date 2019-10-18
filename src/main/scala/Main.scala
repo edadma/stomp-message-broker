@@ -1,11 +1,6 @@
 package xyz.hyperreal.stomp_message_broker
 
-import typings.node.{nodeStrings, process}
-import typings.sockjsDashClient.sockjsDashClientMod
-import typings.stompjs.stompjsMod
 import xyz.hyperreal.stomp_server.StompServer
-
-import scala.scalajs.js
 
 
 object Main extends App {
