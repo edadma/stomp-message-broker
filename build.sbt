@@ -31,7 +31,7 @@ npmDependencies in Compile ++= Seq(
 libraryDependencies ++= Seq(
   ScalablyTyped.S.`sockjs-client`,
   ScalablyTyped.S.stompjs,
-  "xyz.hyperreal" %%% "stomp-server" % "0.1.7"
+  "xyz.hyperreal" %%% "stomp-server" % "0.1.8"
 )
 
 libraryDependencies ++= Seq(
